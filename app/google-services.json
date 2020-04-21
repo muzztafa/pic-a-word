@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710366484879",
+    "firebase_url": "https://pic-a-word.firebaseio.com",
+    "project_id": "pic-a-word",
+    "storage_bucket": "pic-a-word.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710366484879:android:6c488a5b271825094913fa",
+        "android_client_info": {
+          "package_name": "com.mustafa.picaword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710366484879-1h623d8irrpsjiknnldgq6oqquafvphj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mustafa.picaword",
+            "certificate_hash": "2cff6726087109a8e833b5f67584ef7600a1c66c"
+          }
+        },
+        {
+          "client_id": "710366484879-6v58gcvn2k36hpvssl0h2iql6n13b0s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHEuP2XTerCoTgxhFeVRR5h6ciH16XjyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710366484879-6v58gcvn2k36hpvssl0h2iql6n13b0s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
