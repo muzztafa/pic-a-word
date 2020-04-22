@@ -1,14 +1,15 @@
 package com.mustafa.picaword;
 
 public class Users {
-    String email, password, username;
+    String email, username;
 
-    Users(String email, String username, String pw){
+    Users(String email, String username){
         this.email=email;
         this.username=username;
-        this.password=pw;
 
     }
+
+    Users (){}
 
     public String getEmail() {
         return email;
@@ -18,13 +19,7 @@ public class Users {
         this.email = email;
     }
 
-    public String getPassword() {
-        return password;
-    }
 
-    public void setPassword(String password) {
-        this.password = password;
-    }
 
     public String getUsername() {
         return username;
